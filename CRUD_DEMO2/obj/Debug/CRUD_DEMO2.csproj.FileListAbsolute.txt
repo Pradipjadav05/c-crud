@@ -1,0 +1,13 @@
+D:\MCA\C#\Project\Desktop\CRUD_DEMO2\CRUD_DEMO2\bin\Debug\Database1.mdf
+D:\MCA\C#\Project\Desktop\CRUD_DEMO2\CRUD_DEMO2\bin\Debug\Database1_log.ldf
+D:\MCA\C#\Project\Desktop\CRUD_DEMO2\CRUD_DEMO2\bin\Debug\CRUD_DEMO2.exe.config
+D:\MCA\C#\Project\Desktop\CRUD_DEMO2\CRUD_DEMO2\bin\Debug\CRUD_DEMO2.exe
+D:\MCA\C#\Project\Desktop\CRUD_DEMO2\CRUD_DEMO2\bin\Debug\CRUD_DEMO2.pdb
+D:\MCA\C#\Project\Desktop\CRUD_DEMO2\CRUD_DEMO2\obj\Debug\CRUD_DEMO2.csproj.AssemblyReference.cache
+D:\MCA\C#\Project\Desktop\CRUD_DEMO2\CRUD_DEMO2\obj\Debug\CRUD_DEMO2.Form1.resources
+D:\MCA\C#\Project\Desktop\CRUD_DEMO2\CRUD_DEMO2\obj\Debug\CRUD_DEMO2.Properties.Resources.resources
+D:\MCA\C#\Project\Desktop\CRUD_DEMO2\CRUD_DEMO2\obj\Debug\CRUD_DEMO2.csproj.GenerateResource.cache
+D:\MCA\C#\Project\Desktop\CRUD_DEMO2\CRUD_DEMO2\obj\Debug\CRUD_DEMO2.csproj.CoreCompileInputs.cache
+D:\MCA\C#\Project\Desktop\CRUD_DEMO2\CRUD_DEMO2\obj\Debug\CRUD_DEMO2.exe
+D:\MCA\C#\Project\Desktop\CRUD_DEMO2\CRUD_DEMO2\obj\Debug\CRUD_DEMO2.pdb
+D:\MCA\C#\Project\Desktop\CRUD_DEMO2\CRUD_DEMO2\obj\Debug\CRUD_DEMO2.FeesDetails.resources
